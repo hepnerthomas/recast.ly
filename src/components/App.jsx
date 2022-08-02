@@ -1,6 +1,3 @@
-
-import exampleVideoData from './data/exampleVideoData.js';
-
 var App = () => (
   <div>
     <nav className="navbar">
